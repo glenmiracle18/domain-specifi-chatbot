@@ -75,6 +75,7 @@ finance-chatbot-transformer/
 ---
 
 ## 🧠 Prompt Format
+<img width="563" alt="Screenshot 2025-06-19 at 11 42 05 AM" src="https://github.com/user-attachments/assets/438e3326-63f8-48a1-b6a3-8be1264138f0" />
 
 Prompts are formatted as follows:
 
