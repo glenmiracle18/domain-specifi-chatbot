@@ -1,6 +1,14 @@
 ## 💸 FinGPT: Domain-Specific Financial Chatbot using Transformers
 A Transformer-powered chatbot fine-tuned for financial and economic reasoning using the `facebook/opt-350m` model and LoRA (Low-Rank Adaptation). Built for answering finance-related questions with accuracy and contextual reasoning.
 
+---
+
+## 📽️ Demo Video
+
+📎 Link: [Paste your video URL here]([https://youtu.be/...](https://youtu.be/LukIJxMbq4I))
+
+---
+
 ````markdown
 ---
 
@@ -125,13 +133,7 @@ docker build -t finance-chatbot .
 docker run -p 7860:7860 finance-chatbot
 ```
 
----
 
-## 📽️ Demo Video
-
-📎 Link: [Paste your video URL here](https://youtu.be/...)
-
----
 
 ## 📝 Future Work
 
