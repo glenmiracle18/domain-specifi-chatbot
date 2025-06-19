@@ -5,7 +5,7 @@ A Transformer-powered chatbot fine-tuned for financial and economic reasoning us
 
 ## 📽️ Demo Video
 
-📎 Link: [Paste your video URL here]([https://youtu.be/...](https://youtu.be/LukIJxMbq4I))
+📎 Link: [([https://youtu.be/...](https://youtu.be/LukIJxMbq4I))
 
 ---
 
