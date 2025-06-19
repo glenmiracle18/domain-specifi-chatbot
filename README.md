@@ -1,12 +1,7 @@
-Here’s a detailed and professional `README.md` for your **Finance Chatbot using Transformer Models** project, formatted for GitHub:
-
----
-
-````markdown
-# 💸 FinGPT: Domain-Specific Financial Chatbot using Transformers
-
+## 💸 FinGPT: Domain-Specific Financial Chatbot using Transformers
 A Transformer-powered chatbot fine-tuned for financial and economic reasoning using the `facebook/opt-350m` model and LoRA (Low-Rank Adaptation). Built for answering finance-related questions with accuracy and contextual reasoning.
 
+````markdown
 ---
 
 ## 📌 Project Overview
